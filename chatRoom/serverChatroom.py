@@ -41,7 +41,6 @@ while True:
                 socket_list.remove(s)
                 del clients[s]
                 continue
-          #  print(message.decode('utf-8'))
             for client_socket in clients:
                 if client_socket != s:
                     client_socket.send(message)

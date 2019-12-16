@@ -1,0 +1,187 @@
+{
+    "books":[
+        {
+            "author": "Chinua Achebe",
+            "country": "Nigeria",
+            "bookid": "ts-2233",
+            "category": "Internet",
+            "language": "English",
+            "translator": "aa",
+            "pages": 209,
+            "name": "Things Fall Apart",
+            "year": 1958
+        },{
+            "author": "Hans Christian Andersen",
+            "country": "Denmark",
+            "bookid": "rt-4567",
+            "category": "Internet",
+            "language": "Danish",
+            "translator": "none",
+            "pages": 784,
+            "name": "Fairy tales",
+            "year": 1836
+        },{
+            "author": "Dante Alighieri",
+            "country": "Italy",
+            "bookid": "ts-1111",
+            "category": "Internet",
+            "language": "Italian",
+            "translator": "ss",
+            "pages": 928,
+            "name": "The Divine Comedy",
+            "year": 1315
+        },{
+            "author": "Unknown",
+            "country": "Sumer and Akkadian Empire",
+            "bookid": "dd-5460",
+            "category": "Internet",
+            "language": "Akkadian",
+            "translator": "we",
+            "pages": 160,
+            "name": "The Epic Of Gilgamesh",
+            "year": 1790
+        },{
+            "author": "Unknown",
+            "country": "Achaemenbookid Empire",
+            "bookid": "uu-6655",
+            "category": "Internet",
+            "language": "Hebrew",
+            "translator": "ef",
+            "pages": 176,
+            "name": "The Book Of Job",
+            "year": 2000
+      },
+      {
+            "author": "Unknown",
+            "country": "India/Iran/Iraq/Egypt/Tajikistan",
+            "bookid": "dd-8888",
+            "category": "Internet",
+            "language": "Arabic",
+            "translator": "rr",
+            "pages": 288,
+            "name": "One Thousand and One Nights",
+            "year": 2012
+      },
+      {
+        "author": "Unknown",
+        "country": "Iceland",
+        "bookid": "tt-4400",
+        "category": "Internet",
+        "language": "Old Norse",
+        "translator": "bb,
+        "pages": 384,
+        "name": "Nje1l's Saga",
+        "year": 1350
+      },
+      {
+        "author": "Jane Austen",
+        "country": "United Kingdom",
+        "bookid": "tt-0009",
+        "category": "Internet",
+        "language": "English",
+        "translator": "tr",
+        "pages": 226,
+        "name": "Prbookide and Prejudice",
+        "year": 1813
+      },
+      {
+        "author": "Honor\u00e9 de Balzac",
+        "country": "France",
+        "bookid": "nu-0909",
+        "category": "Internet",
+        "language": "French",
+        "translator": "tr",
+        "pages": 443,
+        "name": "Le Goriot",
+        "year": 1835
+      },
+      {
+        "author": "Samuel Beckett",
+        "country": "Republic of Ireland",
+        "bookid": "tt-0009",
+        "category": "Internet",
+        "language": "French, English",
+        "translator": "ew",
+        "pages": 256,
+        "name": "Molloy, Malone Dies, The Unnamable",
+        "year": 1952
+      },
+      {
+        "author": "Giovanni Boccaccio",
+        "country": "Italy",
+        "bookid": "tt-4333",
+        "category": "Internet",
+        "language": "Italian",
+        "translator": "fd",
+        "pages": 1024,
+        "name": "The Decameron",
+        "year": 1351
+    },
+    {
+        "author": "Jorge Luis Borges",
+        "country": "Argentina",
+        "bookid": "nu-0990",
+        "category": "Internet",
+        "language": "Spanish",
+        "translator": "none",
+        "pages": 224,
+        "name": "Ficciones",
+        "year": 1965
+    },
+    {
+        "author": "Emily Bront\u00eb",
+        "country": "United Kingdom",
+        "bookid": "tt-7777",
+        "category": "Internet",
+        "language": "English",
+        "translator": "ff",
+        "pages": 342,
+        "name": "Wuthering Heights",
+        "year": 1847
+    },
+    {
+        "author": "Albert Camus",
+        "country": "Algeria, French Empire",
+        "bookid": "ff-1234",
+        "category": "Internet",
+        "language": "French",
+        "translator": "ff",
+        "pages": 185,
+        "name": "The Stranger",
+        "year": 1942
+    },
+    {
+        "author": "Paul Celan",
+        "country": "Romania, France",
+        "bookid": "oi-0000",
+        "category": "Internet",
+        "language": "German",
+        "translator": "mn",
+        "pages": 320,
+        "name": "Poems",
+        "year": 1952
+    },
+    {
+        "author": "Virginia Woolf",
+        "country": "United Kingdom",
+        "bookid": "io-9999",
+        "category": "Internet",
+        "language": "English",
+        "translator": "ii",
+        "pages": 209,
+        "name": "To the Lighthouse",
+        "year": 1927
+    },
+    {
+        "author": "Marguerite Yourcenar",
+        "country": "France/Belgium",
+        "bookid": "io-9988",
+        "category": "Internet",
+        "language": "French",
+        "translator": "ii",
+        "pages": 408,
+        "name": "Memoirs of Hadrian",
+        "year": 1951
+    }
+    ]
+}
